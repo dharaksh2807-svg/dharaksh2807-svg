@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED WAVE BANNER -->
-<img src="https://raw.githubusercontent.com/dharaksh2807-svg/dharaksh2807-svg/main/assets/banner.svg" width="100%" alt="Dharaksh Kataria - CSE Student at SRM IST and Product Builder" />
+<img src="https://raw.githubusercontent.com/dharaksh2807-svg/dharaksh2807-svg/main/banner.svg" width="100%" alt="Dharaksh Kataria - CSE Student at SRM IST and Product Builder" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/dharaksh2807-svg">
-  <img src="https://raw.githubusercontent.com/dharaksh2807-svg/dharaksh2807-svg/main/assets/typing.svg" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/dharaksh2807-svg/dharaksh2807-svg/main/typing.svg" alt="Typing animation" />
 </a>
 
 <br/><br/>
