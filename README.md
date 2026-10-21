@@ -35,23 +35,6 @@ My work blends **CS fundamentals** (C, C++, Python, Java) with **full-stack engi
 
 ---
 
-## 📊 By the Numbers
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="16%"><h2>6</h2><sub><b>Live<br/>Products</b></sub></td>
-    <td align="center" width="16%"><h2>67</h2><sub><b>Subjects<br/>Indexed</b></sub></td>
-    <td align="center" width="16%"><h2>6</h2><sub><b>Semesters<br/>Covered</b></sub></td>
-    <td align="center" width="16%"><h2>8 yrs</h2><sub><b>PYQs<br/>Analyzed</b></sub></td>
-    <td align="center" width="16%"><h2>100+</h2><sub><b>C++ Code<br/>Examples</b></sub></td>
-    <td align="center" width="16%"><h2>24</h2><sub><b>UI<br/>Themes</b></sub></td>
-  </tr>
-</table>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. SRM Smart Study Hub — Full-Syllabus Academic Portal
