@@ -321,7 +321,7 @@ I'm open to hackathon collaborations, EdTech and AI-tooling conversations, and s
 | ♻️ **ReValue** | [revalue-gray.vercel.app](https://revalue-gray.vercel.app/) | AI-powered circular economy OS |
 | 🕊️ **Micchami Dukkadam** | [micchami-dukkadam.vercel.app](https://micchami-dukkadam.vercel.app/) | Shareable interactive greeting experience |
 | 💻 **GitHub** | [@dharaksh2807-svg](https://github.com/dharaksh2807-svg) | Repositories and ongoing work |
-| 📫 **Email** | [srmeduhelp@gmail.com](mailto:srmeduhelp@gmail.com) | Feedback, collaboration, inquiries |
+| 📫 **Email** | [dharaksh2807@gmail.com](mailto:dharaksh2807@gmail.com) | Feedback, collaboration, inquiries |
 
 <br/>
 
